@@ -1,0 +1,13 @@
+/Users/NLH/Documents/Code/CSpractice/CSpractice/bin/Debug/netcoreapp3.1/CSpractice.deps.json
+/Users/NLH/Documents/Code/CSpractice/CSpractice/bin/Debug/netcoreapp3.1/CSpractice.runtimeconfig.json
+/Users/NLH/Documents/Code/CSpractice/CSpractice/bin/Debug/netcoreapp3.1/CSpractice.runtimeconfig.dev.json
+/Users/NLH/Documents/Code/CSpractice/CSpractice/bin/Debug/netcoreapp3.1/CSpractice.dll
+/Users/NLH/Documents/Code/CSpractice/CSpractice/bin/Debug/netcoreapp3.1/CSpractice.pdb
+/Users/NLH/Documents/Code/CSpractice/CSpractice/obj/Debug/netcoreapp3.1/CSpractice.csproj.AssemblyReference.cache
+/Users/NLH/Documents/Code/CSpractice/CSpractice/obj/Debug/netcoreapp3.1/CSpractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/NLH/Documents/Code/CSpractice/CSpractice/obj/Debug/netcoreapp3.1/CSpractice.AssemblyInfoInputs.cache
+/Users/NLH/Documents/Code/CSpractice/CSpractice/obj/Debug/netcoreapp3.1/CSpractice.AssemblyInfo.cs
+/Users/NLH/Documents/Code/CSpractice/CSpractice/obj/Debug/netcoreapp3.1/CSpractice.csproj.CoreCompileInputs.cache
+/Users/NLH/Documents/Code/CSpractice/CSpractice/obj/Debug/netcoreapp3.1/CSpractice.dll
+/Users/NLH/Documents/Code/CSpractice/CSpractice/obj/Debug/netcoreapp3.1/CSpractice.pdb
+/Users/NLH/Documents/Code/CSpractice/CSpractice/obj/Debug/netcoreapp3.1/CSpractice.genruntimeconfig.cache
